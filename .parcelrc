@@ -1,0 +1,6 @@
+{
+  "extends": "@plasmohq/parcel-config",
+  "transformers": {
+    "*.wasm": ["@parcel/transformer-raw"]
+  }
+}
