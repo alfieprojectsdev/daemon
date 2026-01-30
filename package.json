@@ -2,8 +2,8 @@
   "name": "daemon",
   "displayName": "Daemon",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
-  "author": "Plasmo Corp. <foss@plasmo.com>",
+  "description": "An adaptive, local-first job application agent.",
+  "author": "Alfie Projects",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
